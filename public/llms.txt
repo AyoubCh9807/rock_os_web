@@ -1,0 +1,14 @@
+# Rock OS
+> A 64-bit operating system built from scratch in C++ and x86 assembly by AyoubCh9807.
+
+## Overview
+Rock OS is a hobby 64-bit operating system featuring GOP framebuffer graphics, custom window manager, keyboard & mouse drivers, shell environment, physical frame allocation, and 4-level paging.
+
+## GitHub Repository
+- Repository: https://github.com/AyoubCh9807/RockOS
+- Developer: https://github.com/AyoubCh9807
+
+## Important Architecture Notes
+- Processes, context switching, and process isolation are mostly implemented in kernel infrastructure, but not currently tested or used by the desktop environment.
+- Native applications include Bouncing DVD app, Matrix code rain app, Rock AI preview app, and Paint app (currently broken / under refactoring).
+- System calls (syscalls) are not implemented yet.
