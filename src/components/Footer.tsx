@@ -66,11 +66,6 @@ export default function Footer({ onOpenDocs }: FooterProps) {
                                     Manifesto
                                 </a>
                             </li>
-                            <li>
-                                <a href="#mascots" className="hover:text-red-400 transition-colors">
-                                    Mascot Crew
-                                </a>
-                            </li>
                         </ul>
                     </div>
 

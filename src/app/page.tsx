@@ -8,7 +8,6 @@ import DesktopShowcase from "@/components/DesktopShowcase";
 import RockAiSection from "@/components/RockAiSection";
 import ArchitectureSection from "@/components/ArchitectureSection";
 import PhilosophySection from "@/components/PhilosophySection";
-import MascotSection from "@/components/MascotSection";
 import GitHubSection from "@/components/GitHubSection";
 import DocsModal from "@/components/DocsModal";
 import Footer from "@/components/Footer";
@@ -29,7 +28,6 @@ export default function Home() {
         <RockAiSection />
         <ArchitectureSection />
         <PhilosophySection />
-        <MascotSection />
         <GitHubSection />
       </main>
 
